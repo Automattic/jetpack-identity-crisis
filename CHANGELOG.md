@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Sync: Adding the Identity_Crisis package.
+
+### Changed
+- Updated package dependencies.
