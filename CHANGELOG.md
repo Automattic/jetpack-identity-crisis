@@ -14,3 +14,4 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Use Connection/Urls for home_url and site_url functions migrated from Sync.
